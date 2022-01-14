@@ -1,0 +1,252 @@
+body {
+  font-family: "Be Vietnam Pro", sans-serif;
+  background-color: #040814;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.bodyIMG {
+  background-image: url("./images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #040814;
+  width: 100%;
+  height: 545px;
+}
+
+header {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.header-button {
+  font-family: "Be Vietnam Pro";
+  font-size: 18px;
+  background-color: #050505;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  opacity: 0.8;
+  margin-right: 40px;
+  width: 110px;
+  height: 50px;
+}
+
+.header-button:hover {
+  background-color: #fff;
+  border: 1px solid #fff;
+  color: #0c0c0c;
+  opacity: 1;
+  transition: 0.5s;
+}
+/* HEADER FINISH */
+
+/* MAIN START */
+.main-one {
+  width: 50%;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+  margin-left: 50px;
+}
+
+.combo-t1 {
+  font-size: 28px;
+  font-weight: 700;
+  margin-top: 85px;
+  text-align: center;
+}
+
+.button-combo {
+  font-family: "Be Vietnam Pro";
+  font-size: 1.1em;
+  font-weight: 500;
+  background-color: #016cf9;
+  border: 1px solid #016cf9;
+  border-radius: 3px;
+  text-align: center;
+  cursor: pointer;
+  color: #fff;
+  margin-right: 40px;
+  margin-top: 40px;
+  width: 580px;
+  height: 65px;
+}
+
+.button-combo:hover {
+  background-color: #147aff;
+  border: 1 px solid #147aff;
+  transition: 0.5s;
+}
+
+.text-combo {
+  margin-top: 20px;
+  font-size: 12px;
+  color: #bbbbbb;
+}
+
+.disney-t1 {
+  font-size: 18px;
+  font-weight: 500;
+  text-decoration: underline;
+  margin: 25px 0 0;
+  padding: 0;
+}
+
+.disney-p1 {
+  font-size: 16px;
+  font-weight: 500;
+  color: #bbbbbb;
+  margin: 5px 0 0;
+  padding: 0;
+}
+/* MAIN FINISH */
+
+/* MAIN 2 START */
+.main-two {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 100%;
+  height: 700px;
+}
+
+.main-two img {
+  margin-left: 50px;
+}
+
+.main-two h1 {
+  font-size: 2.5em;
+  margin-right: 50px;
+}
+
+.main-two h2 {
+  font-size: 1.1em;
+  font-weight: 500;
+  color: #bbbbbb;
+  margin-right: 130px;
+  line-height: 30px;
+}
+/* MAIN 2 FINISH */
+
+/* MAIN 3 START */
+.main-three {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 100%;
+  height: 700px;
+}
+
+.main-three img {
+  margin-right: 80px;
+}
+
+.mainThree-div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+  margin-left: 90px;
+  padding: 0;
+
+  width: 40%;
+}
+
+.mainThree-div h3 {
+  font-size: 1em;
+  font-weight: 400;
+  color: #bbbbbb;
+
+  line-height: 30px;
+}
+
+.mainThree-div button {
+  font-family: "Be Vietnam Pro";
+  font-size: 1.1em;
+  font-weight: 400;
+  background-color: #0063e5;
+  border: 1px solid #0063e5;
+  border-radius: 4px;
+  text-align: center;
+  cursor: pointer;
+  color: #fff;
+  margin-right: 40px;
+  margin-top: 40px;
+  width: 360px;
+  height: 60px;
+
+  margin-top: 5px;
+}
+
+.mainThree-div button:hover {
+  background-color: #0066eb;
+  border: 1 px solid #0066eb;
+  transition: 0.5s;
+}
+/* MAIN 3 FINISH */
+
+/* MAIN 4 START */
+.main-fourth {
+  width: 100%;
+  height: 700px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mainFourth-div {
+  background-image: url("./images/mid3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #040814;
+  width: 88%;
+  height: 650px;
+
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+
+  margin-top: 50px;
+}
+
+.mF-insideDiv {
+  width: 50%;
+}
+
+.mainFourth-div h2 {
+  font-size: 1.6em;
+}
+
+.mainFourth-div h3 {
+  font-size: 1em;
+  line-height: 30px;
+
+  font-weight: 400;
+  color: #bbbbbb;
+}
+/* MAIN 4 FINISH */
+
+/* MAIN 5 START */
+.main-fifth {
+  width: 100%;
+  height: 700px;
+}
+/* MAIN 5 FINISH */
