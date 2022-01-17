@@ -245,8 +245,50 @@ header {
 /* MAIN 4 FINISH */
 
 /* MAIN 5 START */
+
 .main-fifth {
   width: 100%;
   height: 700px;
 }
+
+.main-fifth h1 {
+  font-size: 38px;
+
+  display: flex;
+  justify-content: center;
+
+  margin-top: 150px;
+}
+
+.imgsContainer {
+  display: flex;
+  align-items: initial;
+}
+
+.imgsContainer div {
+  width: 100%;
+  height: auto;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  padding: 0;
+  margin: 0;
+}
+
+.imgsContainer h2 {
+  font-size: 28px;
+  padding: 2.5px;
+  margin: 20px;
+}
+
+.imgsContainer h3 {
+  font-weight: 500;
+  color: #bbbbbb;
+
+  padding: 2.5px;
+  margin: 0;
+}
+
 /* MAIN 5 FINISH */
