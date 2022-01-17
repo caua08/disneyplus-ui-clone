@@ -10,7 +10,7 @@
 
 # **Disney+ UI Clone**
 
-<h1>The initial page</h1>
+<h2>The initial page</h2>
 <img src="./images/disney-print.png" width="90%">
 </br>
 
