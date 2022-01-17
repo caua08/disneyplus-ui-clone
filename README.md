@@ -20,9 +20,13 @@
 </br>
 <h1>Technologies:</h1>
 
+<<<<<<< HEAD
 - 🔗HTML
 - 🔗CSS
 </br>
 <h4 align="center"> 
 	🚧  Project... 🚀 Loading...  🚧
 </h4>
+=======
+### I started this project thinking about practice more using HTML and CSS. Disney+ UI Clone is my second project, and I want to update it in the future.
+>>>>>>> 7e7c88f0ee27718abf917fdb6ad091d40fd0b273
