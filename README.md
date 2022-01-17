@@ -13,20 +13,17 @@
 
 <h1>The initial page</h1>
 
-<img src="./images/disney-print.png" width="50%">
+<img src="./images/disney-print.png" width="90%">
 </br>
 
 <h2>I started this project thinking about practice more using HTML and CSS.</br> Disney+ UI Clone is my first project, and I want to update it in the future.</h2>
 </br>
 <h1>Technologies:</h1>
 
-<<<<<<< HEAD
 - 🔗HTML
 - 🔗CSS
-</br>
+  </br>
+
 <h4 align="center"> 
 	🚧  Project... 🚀 Loading...  🚧
 </h4>
-=======
-### I started this project thinking about practice more using HTML and CSS. Disney+ UI Clone is my second project, and I want to update it in the future.
->>>>>>> 7e7c88f0ee27718abf917fdb6ad091d40fd0b273
