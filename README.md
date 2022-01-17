@@ -1,12 +1,12 @@
-<center>
+<div align="center">
 <img src="./images/logo-git.svg" width="30%">
 
-# A project to learn more about HTML and CSS
+## A project to learn more about HTML and CSS
 
 <img src="https://img.shields.io/static/v1?label=UI&message=Clone Plus&color=rgb(0, 51, 153)&style=<STYLE>&logo=<LOGO>">
 <img src="https://img.shields.io/static/v1?label=Studying&message=HTML&color=rgb(0, 51, 153)&style=<STYLE>&logo=<LOGO>">
 <img src="https://img.shields.io/static/v1?label=Studying&message=CSS&color=rgb(0, 51, 153)&style=<STYLE>&logo=<LOGO>">
-</center>
+</div>
 
 # **Disney+ UI Clone**
 
